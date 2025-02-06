@@ -1,0 +1,4 @@
+@EndUserText.label: 'SERVICE DEFINITION ZPACIENTE_CVB'
+define service ZSD_ZCDS_ZPACIENTE_CVB {
+  expose ZCDS_ZPACIENTE_DVE_CVB;
+}
